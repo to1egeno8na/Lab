@@ -2,3 +2,4 @@
 #Arapova Assylzhan
 #Git Hub-та 2 аккаунт арқылы 1 репозиторийға коммиттер жіберіліп жатыр
 print("Hello, World!")
+print("How are you?")
